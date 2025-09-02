@@ -1,4 +1,4 @@
-✨ Overview
+✨PITCH DECK 
 
 This is a Simple Calculator built with beginner-friendly code. It supports:
 
@@ -9,8 +9,6 @@ This is a Simple Calculator built with beginner-friendly code. It supports:
 ✖️ Multiplication
 
 ➗ Division
-
-🔤 Joining (concatenating) text
 
 The calculator is intentionally kept simple so that students, educators, and beginners in programming can easily understand, modify, and use it.
 
@@ -42,20 +40,9 @@ By combining math and text, the calculator bridges numeracy and literacy, which 
 
 🛠️ Installation & Usage
 1. Clone the repository
+2. RUN WEBPAGE USING LIVE SERVER
 
-2. Run the calculator
-
-For example, if it’s a Python project:
-
-python calculator.py
-
-3. Sample usage
-# Math
-add(3, 5)        # Output: 8
-divide(10, 2)    # Output: 5.0
-
-# Text
-join_text("Hello", "World")   # Output: "Hello World"
+3. Run the calculator
 
 📈 Future Improvements
 
