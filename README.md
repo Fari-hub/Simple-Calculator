@@ -42,8 +42,6 @@ By combining math and text, the calculator bridges numeracy and literacy, which 
 
 🛠️ Installation & Usage
 1. Clone the repository
-git clone https://github.com/your-username/simple-calculator.git
-cd simple-calculator
 
 2. Run the calculator
 
