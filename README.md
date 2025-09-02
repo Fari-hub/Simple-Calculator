@@ -1,5 +1,4 @@
 ✨ Pitch DECK
-
 This is a Simple Calculator built with beginner-friendly code. It supports:
 
 ➕ Addition
@@ -38,6 +37,7 @@ By combining math and text, the calculator bridges numeracy and literacy, which 
 
 🛠️ Installation & Usage
 1. Clone the repository
+2. RUN WEBPAGE USING LIVE SERVER
 
 2. Run the calculator(open using live server)
 
